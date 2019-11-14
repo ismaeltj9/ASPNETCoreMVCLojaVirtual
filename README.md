@@ -1,0 +1,2 @@
+# ASPNETCoreMVCLojaVirtual
+ Qualquer Coisa
