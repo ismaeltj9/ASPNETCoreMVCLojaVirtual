@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ismae\\Desktop\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj": {}
+    "C:\\Users\\ismae\\Desktop\\ASPNETCoreMVCLojaVirtual\\Seção 02\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ismae\\Desktop\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj": {
+    "C:\\Users\\ismae\\Desktop\\ASPNETCoreMVCLojaVirtual\\Seção 02\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ismae\\Desktop\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
+        "projectUniqueName": "C:\\Users\\ismae\\Desktop\\ASPNETCoreMVCLojaVirtual\\Seção 02\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
         "projectName": "ProjetoZero",
-        "projectPath": "C:\\Users\\ismae\\Desktop\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
+        "projectPath": "C:\\Users\\ismae\\Desktop\\ASPNETCoreMVCLojaVirtual\\Seção 02\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\ProjetoZero.csproj",
         "packagesPath": "C:\\Users\\ismae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ismae\\Desktop\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\obj\\",
+        "outputPath": "C:\\Users\\ismae\\Desktop\\ASPNETCoreMVCLojaVirtual\\Seção 02\\Primeiro Projeto\\ProjetoZero\\ProjetoZero\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
